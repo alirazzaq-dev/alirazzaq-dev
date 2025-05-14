@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hi, I’m Ali Razzaq</h1>
 
 <p align="center">
-  <b>Smart‑Contract & dApp Engineer · Solidity · Foundry · Chainlink · L2 Rollups</b><br>
-  $500 K+ raised, 4 yrs experience building audited Web3 products end‑to‑end
+
+  <b>Full‑Stack & Smart‑Contract Engineer · Solidity · React / Next.js · Foundry · Chainlink · L2 Rollups <b>
+  4 + yrs building audited Web3 dApps end‑to‑end; launched tokens that raised $500 K + on‑chain
+
 </p>
 
 ---
@@ -19,13 +21,12 @@
 | [PreSaleDAPP](https://github.com/alirazzaq-dev/PreSaleDAPP) | Next.js · ethers.js | Launchpad UI, WalletConnect V2, deploy <10 min |
 | [VRF Raffle](https://github.com/alirazzaq-dev/vrf-raffle) | Solidity · Chainlink VRF | Diamond proxy, fuzz‑tested, upgrade‑safe |
 
-*(Swap in your real repo URLs.)*
 
 ### 🧰 Tech toolbox
 Solidity • Foundry • Hardhat • Chainlink • OpenZeppelin • React / Next.js • Node • Ethers.js • viem • MongoDB • AWS • Docker • Slither / Echidna
 
 ### 📈 GitHub stats
-![GitHub Streak](https://streak-stats.demolab.com?user=alirazzaq-dev&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alirazzaq-dev&theme=default.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirazzaq-dev&layout=compact)
 
 ---
