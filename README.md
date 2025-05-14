@@ -17,10 +17,11 @@
 ### 🚀 Featured work
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [OnPlanetToken](https://github.com/alirazzaq-dev/OnPlanetToken) | Solidity · Foundry | 90 % test coverage, deflationary model, CertiK audit |
-| [PreSaleDAPP](https://github.com/alirazzaq-dev/PreSaleDAPP) | Next.js · ethers.js | Launchpad UI, WalletConnect V2, deploy <10 min |
+| [OnPlanetToken](https://github.com/OnPlanet-io/onPlanetToken) | Solidity · Hardhat | 90 % test coverage, deflationary model, CertiK audit |
+| [dapps‑nextjs](https://github.com/panaverse/dapps-nextjs) | Next.js 13 · TypeScript · ethers.js · Hardhat · Chakra UI | Wrote 16 step‑by‑step demos (read/write contracts, events, MetaMask/Web3React, voting, NFT mint, marketplace) that teach 1 K+ learners full‑stack dApp patterns |
+<!--| [PreSaleDAPP](https://github.com/alirazzaq-dev/PreSaleDAPP) | Next.js · ethers.js | Launchpad UI, WalletConnect V2, deploy <10 min |
 | [VRF Raffle](https://github.com/alirazzaq-dev/vrf-raffle) | Solidity · Chainlink VRF | Diamond proxy, fuzz‑tested, upgrade‑safe |
-
+-->
 
 ### 🧰 Tech toolbox
 Solidity • Foundry • Hardhat • Chainlink • OpenZeppelin • React / Next.js • Node • Ethers.js • viem • MongoDB • AWS • Docker • Slither / Echidna
