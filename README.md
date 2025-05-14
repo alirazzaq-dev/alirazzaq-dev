@@ -26,7 +26,11 @@
 Solidity • Foundry • Hardhat • Chainlink • OpenZeppelin • React / Next.js • Node • Ethers.js • viem • MongoDB • AWS • Docker • Slither / Echidna
 
 ### 📈 GitHub stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=alirazzaq-dev&theme=default.svg)
+<!-- 
+[![Streak](https://github-readme-stats.vercel.app/api?username=alirazzaq-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&custom_title=GitHubÂ Streak)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirazzaq-dev&layout=compact)
 
 ---
