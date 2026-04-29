@@ -18,7 +18,7 @@
 ### 🚀 Featured work
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [web3-solidity-portfolio](https://github.com/alirazzaq-dev/web3-solidity-portfolio) | Solidity · Foundry · Chainlink · OpenZeppelin | Advanced smart contracts: ERC20, DAO, Upgradables, VRF, Airdrops – each with scripts & tests |
+| [evm-smart-contract-engineering](https://github.com/alirazzaq-dev/evm-smart-contract-engineering) | Solidity · Foundry · Chainlink · OpenZeppelin | Advanced smart contracts: ERC20, DAO, Upgradables, VRF, Airdrops – each with scripts & tests |
 | [OnPlanetToken](https://github.com/OnPlanet-io/onPlanetToken) | Solidity · Hardhat | 90 % test coverage, deflationary model, CertiK audit |
 | [dapps‑nextjs](https://github.com/panaverse/dapps-nextjs) | Next.js 13 · TypeScript · ethers.js · Hardhat · Chakra UI | 16+ full-stack demos (contracts, events, MetaMask/Web3React, NFT, voting, marketplace) for learners |
 
